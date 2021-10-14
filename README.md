@@ -4,4 +4,4 @@ projeto realizado através da aula Recriando a página do Instagram, na platafor
 
 Ícones com links originais.
 
-(Não funcina o botão Continue como Ricardo, e nem o botão Remover conta).
+⚠️(Não funcina o botão Continue como Ricardo, e nem o botão Remover conta).
